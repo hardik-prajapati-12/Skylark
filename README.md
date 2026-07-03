@@ -14,3 +14,18 @@ A feature-rich weather forecasting web application that delivers real-time weath
 • Temperature unit toggle (°C / °F)
 • Responsive design for desktop and mobile
 • Fast and lightweight user interface
+
+Frontend
+• HTML5
+• CSS3
+• JavaScript (ES6)
+
+APIs
+• Open-Meteo Weather API
+• Geoapify Geocoding API
+• BigDataCloud Reverse Geocoding API
+
+Browser APIs
+• Geolocation API
+• Fetch API
+• Web Audio API
