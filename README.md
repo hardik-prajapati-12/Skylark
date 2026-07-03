@@ -3,29 +3,29 @@ A feature-rich weather forecasting web application that delivers real-time weath
 
 ✨ Features
 
-• Real-time weather information
-• 7-Day weather forecast
-• Hourly weather forecast
-• City search with autocomplete
-• Current location weather using Geolocation API
-• Dynamic sky backgrounds based on weather conditions
-• Weather animations (Rain, Snow, Fog, Thunderstorm)
-• Sound effects for weather conditions
-• Temperature unit toggle (°C / °F)
-• Responsive design for desktop and mobile
-• Fast and lightweight user interface
+• Real-time weather information <br>
+• 7-Day weather forecast<br>
+• Hourly weather forecast<br>
+• City search with autocomplete<br>
+• Current location weather using Geolocation API<br>
+• Dynamic sky backgrounds based on weather conditions<br>
+• Weather animations (Rain, Snow, Fog, Thunderstorm)<br>
+• Sound effects for weather conditions<br>
+• Temperature unit toggle (°C / °F)<br>
+• Responsive design for desktop and mobile<br>
+• Fast and lightweight user interface<br>
 
-Frontend
-• HTML5
-• CSS3
-• JavaScript (ES6)
+Frontend<br>
+• HTML5<br>
+• CSS3<br>
+• JavaScript (ES6)<br>
 
-APIs
-• Open-Meteo Weather API
-• Geoapify Geocoding API
-• BigDataCloud Reverse Geocoding API
+APIs<br>
+• Open-Meteo Weather API<br>
+• Geoapify Geocoding API<br>
+• BigDataCloud Reverse Geocoding API<br>
 
-Browser APIs
-• Geolocation API
-• Fetch API
-• Web Audio API
+Browser APIs<br>
+• Geolocation API<br>
+• Fetch API<br>
+• Web Audio API<br>
