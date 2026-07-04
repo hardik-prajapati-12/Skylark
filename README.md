@@ -1,7 +1,7 @@
 # Skylark
 A feature-rich weather forecasting web application that delivers real-time weather updates, hourly and weekly forecasts, location-based search, and dynamic weather visualizations. Powered by Open-Meteo for weather data and Geoapify for accurate location search.
 
-##✨ Features
+## ✨ Features
 
 • Real-time weather information <br>
 • 7-Day weather forecast<br>
@@ -15,13 +15,13 @@ A feature-rich weather forecasting web application that delivers real-time weath
 • Responsive design for desktop and mobile<br>
 • Fast and lightweight user interface<br>
 
-##Frontend<br>
+## Frontend<br>
 
 • HTML5<br>
 • CSS3<br>
 • JavaScript (ES6)<br>
 
-##APIs<br>
+## APIs<br>
 
 • Open-Meteo Weather API<br>
 • Geoapify Geocoding API<br>
