@@ -27,7 +27,7 @@ A feature-rich weather forecasting web application that delivers real-time weath
 • Geoapify Geocoding API<br>
 • BigDataCloud Reverse Geocoding API<br>
 
-##Browser APIs<br>
+## Browser APIs<br>
 
 • Geolocation API<br>
 • Fetch API<br>
